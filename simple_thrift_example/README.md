@@ -40,3 +40,11 @@ Create a client to request the server
 
 ## Step 6:
 Run the server and client. Client will get serviced from the server
+
+# Simple thriftpy approach
+
+An alternate approach for thrift client is to use thriftpy pakcakge.
+
+- Create the simple server endpoint as defined in thriftpy_approach/server.py
+- Create simple client endpoint as defined in thriftpy_approach/client.py
+- run the server and client to request service from server
